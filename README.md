@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Phat</h1>
+<h1 align="center">
+  Hi 👋, I'm Phat 
+  <img src="https://img.icons8.com/?size=100&id=wsHJ9OZiqgsR&format=png&color=000000" width="32" style="vertical-align: middle;" />
+</h1>
 
 <div align="center">
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=wsHJ9OZiqgsR&format=png&color=000000" alt="vietnam"/>
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=wsHJ9OZiqgsR&format=png&color=000000" alt="vietnam"/>
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=wsHJ9OZiqgsR&format=png&color=000000" alt="vietnam"/>
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=wsHJ9OZiqgsR&format=png&color=000000" alt="vietnam"/>
-  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=wsHJ9OZiqgsR&format=png&color=000000" alt="vietnam"/>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" height="150"/>
 </div>
 
 <h3 align="center">🔧 Hardware Engineer | Schematic Review | PCB Debugging & Testing</h3>
