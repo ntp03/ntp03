@@ -9,7 +9,7 @@
 
 <h3 align="center">🔧 Hardware Engineer | Schematic Review | PCB Debugging & Testing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntp03" alt="ntp03" /></a> </p>
+
 
 
 - 👯 I’m looking to collaborate on **Real-world AI applications, AIoT & Robotics projects**
